@@ -240,7 +240,9 @@ body {
   /* 1080px */
   .hero::after {
     background-image: url(./assets/bg-main-desktop.png);
-    background-position: center top 56%;
+    /*background-position: center top 56%;*/
+    background-position: center top -61%;
+    
   }
 
   .logo-header img {
