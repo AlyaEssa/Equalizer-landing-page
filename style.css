@@ -196,9 +196,9 @@ body {
   }
   .bg-container {
         max-width: 88%;
-    background-size: 398px;
-    background-position: center -83px;
     border-radius: 18px;
+    background-size: 314px;
+    background-position: center -63px;
   }
   .phone {
     transform: translate(-260px, -199px);
