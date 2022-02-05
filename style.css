@@ -54,7 +54,7 @@ body {
 }
 .header-title {
   max-width: 516px;
-  font-size: 54px;
+  font-size: 1rem;
   line-height: 1;
 }
 .sub-header {
