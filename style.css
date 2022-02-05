@@ -27,6 +27,7 @@ body {
   line-height: 1.4;
   color: var(--dark-clr);
   position: relative;
+  background-color: var(--light-clr);
 }
 .hero {
   padding: 20px 0 14px;
@@ -225,10 +226,11 @@ body {
   }
 }
 
-@media (min-width: 1080px) {
+@media (min-width: 960px) {
+  /* 1080px */
   .hero::after {
     background-image: url(./assets/bg-main-tablet.png);
-    background-position: top -176px right 451%;
+    background-position: top -25% right -1363%;
   }
 
   .logo-header img {
@@ -257,3 +259,4 @@ body {
     right: 11px;
   }
 }
+
