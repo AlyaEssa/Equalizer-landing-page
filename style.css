@@ -241,7 +241,7 @@ body {
   .hero::after {
     background-image: url(./assets/bg-main-desktop.png);
     /*background-position: center top 56%;*/
-    background-position: center top -91%;
+    background-position: center top -100%;
     
   }
 
