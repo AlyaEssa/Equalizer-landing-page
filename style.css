@@ -236,6 +236,10 @@ body {
   .logo-header img {
     margin: 0px 0 59px;
   }
+  
+  .head-section {
+    margin-left: 120px; /*new*/
+}
   .header-title {
     max-width: 767px;
     margin-left: 41px; /*new*/
