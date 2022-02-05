@@ -218,7 +218,8 @@ body {
     border-radius: 12px;
   }
   .premium-paragraph {
-    font-size: 16px;
+    font-size: 20px;
+    line-height: 1.8;
   }
   .header-title {
     max-width: 603px;
