@@ -228,9 +228,9 @@ body {
 
 @media (min-width: 960px) {
   /* 1080px */
-  .hero::after {
-    background-image: url(./assets/bg-main-tablet.png);
-    background-position: top -25% right -1363%;
+ .hero::after {
+    background-image: url(./assets/bg-main-desktop.png);
+    background-position: center top 56%;
   }
 
   .logo-header img {
