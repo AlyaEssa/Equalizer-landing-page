@@ -279,7 +279,8 @@ body {
     margin-left: 120px;
   }
   .social-icons {
-    top: 54px;
+   /* top: 54px;*/
+        top: -7px;
     right: 11px;
   }
 }
