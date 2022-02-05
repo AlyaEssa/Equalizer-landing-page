@@ -197,11 +197,11 @@ body {
   .bg-container {
     max-width: 88%;
     background-size: 247px;
-    background-position: center -78px;
+    background-position: center -31px;
     border-radius: 18px;
   }
   .phone {
-    transform: translate(-145px, -130px);
+    transform: translate(-216px, -130px);
     max-width: 249px;
   }
   .main-section {
