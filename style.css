@@ -201,8 +201,8 @@ body {
     border-radius: 18px;
   }
   .phone {
-    transform: translate(-243px, -344px);
-    max-width: 405px;
+    transform: translate(-260px, -240px);
+    max-width: 316px; 
   }
   .main-section {
     position: relative;
