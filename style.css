@@ -99,7 +99,8 @@ body {
   margin-top: -47px;
 }
 .premium-content {
-  padding: 38px;
+  /*padding: 38px;*/
+  padding: 40px 70px;
 }
 .premium-title {
   margin-bottom: 12px;
@@ -121,7 +122,8 @@ body {
 
 /* btn */
 .btn {
-  padding: 16px 38px;
+  /*padding: 16px 38px;*/
+  padding: 16px 21px;
   background-color: aquamarine;
   display: flex;
   margin: 22px;
