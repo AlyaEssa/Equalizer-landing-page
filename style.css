@@ -30,7 +30,8 @@ body {
   background-color: var(--light-clr);
 }
 .hero {
-  padding: 20px 0 14px;
+ /* padding: 20px 0 14px;*/
+  padding: 3.875em 0 20.0625em;
 }
 /* background of responsive mobile size  */
 .hero::after {
