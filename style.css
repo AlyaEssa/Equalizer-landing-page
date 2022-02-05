@@ -210,6 +210,9 @@ body {
   }
   .main-section {
     position: relative;
+    /******/
+    max-width: 80%;
+    margin: 0 auto;
   }
   .premium-section {
     max-width: 411px;
