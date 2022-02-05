@@ -241,6 +241,9 @@ body {
     /*margin-left: 120px;*/ /*new*/
     margin-left: 166px;
 }
+  .head-content { /*new*/
+    margin-top: 120px;
+  }
   .header-title {
     max-width: 767px;
     margin-left: 41px; /*new*/
