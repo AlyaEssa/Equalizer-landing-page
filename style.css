@@ -42,15 +42,21 @@ body {
   inset: 0;
 }
 
+.container {
+  width: 90%;
+  max-width: 69.375rem;
+  margin: 0 auto;
+}
+
 .logo-header img {
   margin: 0 0 59px; /*neww*/
 }
 
 /*.head-section {
   margin: 5%;
-}*/ 
-.head-section{
-   margin-top: 0%;
+}*/
+.head-section {
+  margin-top: 0%;
 }
 .header-title {
   max-width: 516px;
@@ -231,7 +237,7 @@ body {
 
 @media (min-width: 960px) {
   /* 1080px */
- .hero::after {
+  .hero::after {
     background-image: url(./assets/bg-main-desktop.png);
     background-position: center top 56%;
   }
@@ -239,18 +245,13 @@ body {
   .logo-header img {
     margin: 0px 0 59px;
   }
-  
-  .head-section {
-    /*margin-left: 120px;*/ /*new*/
-   margin-left: 180px;
-    margin-top: 43px; /*newww***/
-}
-  .head-content { /*new*/
+
+  .head-content {
+    /*new*/
     margin-top: 60px;
   }
   .header-title {
     max-width: 767px;
-
   }
 
   .bg-container {
@@ -272,4 +273,3 @@ body {
     right: 11px;
   }
 }
-
