@@ -237,7 +237,8 @@ body {
   }
   .social-icons {
     position: absolute;
-    top: 117px;
+   /* top: 117px;*/
+        top: 32px;
     right: 11px;
   }
 }
