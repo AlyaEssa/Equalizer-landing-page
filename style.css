@@ -238,7 +238,8 @@ body {
   }
   
   .head-section {
-    margin-left: 120px; /*new*/
+    /*margin-left: 120px;*/ /*new*/
+    margin-left: 320px; 
 }
   .header-title {
     max-width: 767px;
