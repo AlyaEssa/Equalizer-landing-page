@@ -265,7 +265,8 @@ body {
   }
 
   .bg-container {
-    max-width: 76%;
+   /* max-width: 76%;*/
+    max-width: 102%;
   }
   .premium-section {
     top: 194px;
