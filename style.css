@@ -82,7 +82,7 @@ body {
   background-color: var(--dark-clr);
   margin: 0 auto;
   border-radius: 11px 17px 0 0;
-  margin-top: 377px;
+ /* margin-top: 377px;*/
 
   background-image: url(./assets/bg-pattern-2.svg);
   background-repeat: no-repeat;
